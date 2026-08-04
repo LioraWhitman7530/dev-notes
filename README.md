@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [GDPR Object Storage Design for Private App File Upload and Signed Download](posts/gdpr-object-storage-design-for-private-app-file-upload-and-signed-downlo.md)
 - [Node.js App Logging API: Structured JSON Logs, Request IDs, and Backend Ingest](posts/node-js-app-logging-api-structured-json-logs-request-ids-and-backend-ing.md)
 - [Multi-Model API Selection for Small Teams: OpenAI, Claude, Gemini, and Lock-In](posts/multi-model-api-selection-for-small-teams-openai-claude-gemini-and-lock.md)
 - [Welcome Email Deliverability Checklist for SaaS Custom Domains and DKIM](posts/welcome-email-deliverability-checklist-for-saas-custom-domains-and-dkim.md)
